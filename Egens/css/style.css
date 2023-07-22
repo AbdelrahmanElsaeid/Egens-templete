@@ -38,15 +38,7 @@
 }
 
 
-.main-menu{
-    font-size: 18px;
-    text-transform: capitalize;
-    line-height: 50px;
-    cursor: pointer;
-    font-family: "Jost", sans-serif;
-    font-weight: 500;
-    color: #1c1c1c;
-}
+
 
 .preview__nav {
     margin-top: 25px;
