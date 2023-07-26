@@ -515,6 +515,7 @@ ul {
 
   .about-four {
     background: #f2f5fb;
+    padding-bottom: 50px;
   }
 .all-boost-image{
   margin-top: 150px;
@@ -619,4 +620,63 @@ ul {
   flex-direction: column;
   flex-wrap: wrap;
 
+}
+
+.subtitle {
+  font-size: 18px;
+  font-family: "Jost", sans-serif;
+  font-weight: 500;
+  line-height: 1.9;
+  color: #7153d9;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+}
+
+.title {
+  font-size: 60px;
+  font-family: "Jost", sans-serif;
+  font-weight: 500;
+  line-height: 1.16;
+  color: #1c1c1c;
+}
+
+
+.testimonialthree-text {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  line-height: 1.6;
+  color: #8d8e99;
+  font-weight: 400;
+  margin: 50px 0;
+  max-width: 771px;
+  margin-left: 388px;
+}
+
+.testimonialthree-content {
+  display: flex;
+  align-items: center;
+  margin-top: 32px;
+  justify-content: center;
+}
+
+.testimonialthree-thumb {
+  margin-right: 40px;
+}
+.testimonialthree-info {
+  display: flex;
+  align-items: center;
+}
+
+.testimonialthree-info .name {
+  font-size: 24px;
+  font-family: "Jost", sans-serif;
+  font-weight: 500;
+  color: #1c1c1c;
+}
+.testimonialthree-info .designation {
+  font-family: "Roboto", sans-serif;
+  color: #a3a1a9;
+  font-size: 16px;
+  margin-top: 5px;
 }
