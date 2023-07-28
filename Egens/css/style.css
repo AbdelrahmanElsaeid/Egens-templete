@@ -768,6 +768,7 @@ ul {
 
 .our-blog{
   margin-top: 200px;
+  margin-bottom: 200px;
 }
 
 
@@ -779,3 +780,152 @@ font-weight: 900;
 color: #7153d9;
 margin-right: 10px;
 }
+
+
+
+.wehere-2{
+  margin-top: 150px;
+  margin-bottom: 120px;
+  background-color: #5435be;
+  height: 270px;
+  border-radius: 20px;
+
+}
+.footer-top-subscription .subscribe-form {
+  position: relative;
+  max-width: 540px;
+  width: 100%;
+}
+.form-wrapper {
+  max-width: 540px;
+  width: 100%;
+}
+.subscribe-form {
+  position: relative;
+  max-width: 540px;
+  width: 100%;
+}
+.subscribe-form .email {
+  background-color: white;
+  border-radius: 5px;
+  color: #1c1c1c;
+  display: block;
+  font-size: 18px;
+  height: 73px;
+  padding: 10px 200px 10px 30px;
+  max-width: 540px;
+  width: 100%;
+  border: 0px;
+  box-shadow: 7px 0px 30px rgba(25, 7, 89, 0.05);
+  margin-top: 100px;
+}
+.button {
+  border-color: #e2c4ff;
+  background: #e2c4ff;
+  color: #1c1c1c;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+
+.subscribe-form .button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 0;
+  border-color: #4526b1;
+  
+  border: 0px;
+  border-radius: 0 5px 5px 0;
+  height: 100%;
+  padding: 0 50px;
+  line-height: 1;
+  font-size: 16px;
+  font-family: "Jost", sans-serif;
+  color:black;
+}
+
+li {
+  list-style: none;
+}
+
+
+.lef-icon{
+  margin-bottom: 32px;
+
+}
+
+.foo-address{
+}
+
+.one-cont{
+  display: flex;
+  color: #aea7c3;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 15px;
+  margin-top: 50px;
+}
+.all-addre{
+  
+  color: #aea7c3;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  
+
+}
+
+.foo-li{
+  margin-top: 25px;
+}
+
+
+.head-title{
+  margin-bottom: 70px;
+}
+
+.icon-co {
+  color: #ffffff;
+}
+
+
+.foo-colo{
+  background-color: #343538;
+  padding-top: 65px;
+}
+
+.foo-image {
+  margin-right: 33px;
+  flex: 1 0 90px;
+
+}
+
+
+.foo-subtitle {
+  color: white;
+  font-size: 14px;
+  font-family: "Jost", sans-serif;
+  font-weight: 500;
+  padding-right: 38px;
+}
+
+
+
+.foo-title {
+  color: #1c1c1c;
+  font-size: 18px;
+  font-family: "Jost", sans-serif;
+  font-weight: 500;
+  color: #ffffff;
+  line-height: 1.33;
+}
+
+.foo-date {
+  margin-top: 10px;
+  line-height: 1;
+  font-size: 14px;
+  color: #a3a1a9;
+
+}
+
+
